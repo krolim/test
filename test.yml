@@ -4,10 +4,7 @@
         value: false
     - prop2:
         value: true
-    - prop3:
-        value: true
 
   props:
     someclass:
       somemember: "http://localhost"
-      somemissing: "test me"
